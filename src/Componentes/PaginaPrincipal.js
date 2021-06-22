@@ -1,5 +1,0 @@
-export const PaginaPrincipal = () => {
-    return (
-  
-    );
-  };
