@@ -3,7 +3,7 @@ export const Cabecera = () =>
 {
     return (
         <header className="cabecera">
-            <h1>Paginas</h1>
+            <h1>Lista de la compra</h1>
             <nav>
                 <ul className="menu">
                     <li>
