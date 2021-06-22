@@ -10,3 +10,10 @@ La app tendrá cuatro páginas:
 - Formulario (éste debe servir tanto para crear como para modificar)
 
 Los datos residirán en una API local de artículos.
+
+## Se instalaron las siguientes recetas
+
+- react-scripts
+- react-dom
+- prop-type
+- bootstrap
